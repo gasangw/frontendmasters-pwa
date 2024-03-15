@@ -18,10 +18,18 @@
       "type": "image/png"
     },
     {
-      "src": "./icons/maskable_icon.png",
+      "src": "./icons/maskable_icon_x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "scrrenshots": [
+    {
+      "src": "./icons/icon-screenshot.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
     }
   ],
   "background_color": "#ffffff"
