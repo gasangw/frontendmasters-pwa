@@ -1,6 +1,7 @@
 {
   "name": "Codepad Masters, is the best pwa in town",
   "short_name": "Codepad Masters",
+  "id": "/?utm_source=pwa",
   "start_url": "./?utm_source=pwa",
   "orientation": "landscape",
   "theme_color": "#ffc252",
@@ -26,9 +27,15 @@
   ],
   "screenshots": [
     {
-      "src": "./icons/icon-screenshot.png",
+      "src": "./icons/wide-screen.jpg",
       "type": "image/png",
       "sizes": "1024x1024",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./icons/icon-screenshot.png",
+      "type": "image/png",
+      "sizes": "512x512",
       "form_factor": "narrow"
     }
   ],
