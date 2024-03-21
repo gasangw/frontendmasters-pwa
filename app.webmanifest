@@ -24,11 +24,11 @@
       "purpose": "maskable"
     }
   ],
-  "scrrenshots": [
+  "screenshots": [
     {
       "src": "./icons/icon-screenshot.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "1024x1024",
       "form_factor": "narrow"
     }
   ],
